@@ -1,0 +1,107 @@
+[
+  {
+    "cityName": "Chennai",
+    "cityId": 3156,
+    "stateId": 31
+  },
+  {
+    "cityName": "Hyderabad",
+    "cityId": 63,
+    "stateId": 2
+  },
+  {
+    "cityName": "Bangalore",
+    "cityId": 1294,
+    "stateId": 17
+  },
+  {
+    "cityName": "Mumbai",
+    "cityId": 2278,
+    "stateId": 21
+  },
+  {
+    "cityName": "Delhi",
+    "cityId": 567,
+    "stateId": 10
+  },
+  {
+    "cityName": "Pune",
+    "cityId": 2337,
+    "stateId": 21
+  },
+  {
+    "cityName": "Kolkata",
+    "cityId": 4885,
+    "stateId": 35
+  },
+  {
+    "cityName": "Ahmedabad",
+    "cityId": 677,
+    "stateId": 12
+  },
+  {
+    "cityName": "Chandigarh",
+    "cityId": 476,
+    "stateId": 6
+  },
+  {
+    "cityName": "Coimbatore",
+    "cityId": 3177,
+    "stateId": 31
+  },
+  {
+    "cityName": "Ernakulam",
+    "cityId": 5099,
+    "stateId": 18
+  },
+  {
+    "cityName": "Gurgaon",
+    "cityId": 925,
+    "stateId": 13
+  },
+  {
+    "cityName": "Greater Noida",
+    "cityId": 4138,
+    "stateId": 33
+  },
+  {
+    "cityName": "Jaipur",
+    "cityId": 2904,
+    "stateId": 29
+  },
+  {
+    "cityName": "Lucknow",
+    "cityId": 4297,
+    "stateId": 32
+  },
+  {
+    "cityName": "Mysore",
+    "cityId": 1442,
+    "stateId": 17
+  },
+  {
+    "cityName": "Navi Mumbai",
+    "cityId": 2300,
+    "stateId": 21
+  },
+  {
+    "cityName": "Noida",
+    "cityId": 4386,
+    "stateId": 33
+  },
+  {
+    "cityName": "Thrissur",
+    "cityId": 1664,
+    "stateId": 18
+  },
+  {
+    "cityName": "Thane",
+    "cityId": 2402,
+    "stateId": 21
+  },
+  {
+    "cityName": "Thiruvananthapuram",
+    "cityId": 1659,
+    "stateId": 18
+  }
+]

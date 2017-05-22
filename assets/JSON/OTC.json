@@ -1,0 +1,189 @@
+{
+    "results": {
+        "docs": {
+            "babyprod":{
+              "offerProd":[
+                {
+                "productid": "p001",
+                "productname": "Babyoil",
+                "price": "Rs.100",
+                "DiscountPrice": "Rs.95",
+                "ProductImg": "/assets/img/babyoil.jpg"
+                },
+                {
+                "productid": "p002",
+                "productname": "Babyshampoo",
+                "price": "Rs.150",
+                "DiscountPrice": "Rs.145",
+                "ProductImg": "/assets/img/babyshampoo.jpg"
+                },
+                {
+                "productid": "p003",
+                "productname": "Babyoil",
+                "price": "Rs.100",
+                "DiscountPrice": "Rs.95",
+                "ProductImg": "/assets/img/babyoil.jpg"
+                },
+                {
+                "productid": "p004",
+                "productname": "Babyshampoo",
+                "price": "Rs.150",
+                "DiscountPrice": "Rs.145",
+                "ProductImg": "/assets/img/babyshampoo.jpg"
+                },
+                {
+                "productid": "p005",
+                "productname": "Babyoil",
+                "price": "Rs.100",
+                "DiscountPrice": "Rs.95",
+                "ProductImg": "/assets/img/babyoil.jpg"
+                },
+                {
+                "productid": "p006",
+                "productname": "Babyshampoo",
+                "price": "Rs.150",
+                "DiscountPrice": "Rs.145",
+                "ProductImg": "/assets/img/babyshampoo.jpg"
+                }
+              ],
+              "product" :[
+                {
+                "productid": "101",
+                "productname": "Babyoil",
+                "price": "Rs.100",
+                "DiscountPrice": "Rs.95",
+                "ProductImg": "/assets/img/babyoil.jpg"
+                },
+                {
+                "productid": "102",
+                "productname": "Babyshampoo",
+                "price": "Rs.150",
+                "DiscountPrice": "Rs.145",
+                "ProductImg": "/assets/img/babyshampoo.jpg"
+                },
+                {
+                "productid": "103",
+                "productname": "Babysoap",
+                "price": "Rs.200",
+                "DiscountPrice": "Rs.195",
+                "ProductImg": "/assets/img/babysoap.jpg"
+                },
+                 {
+                "productid": "104",
+                "productname": "Pampers",
+                "price": "Rs.150",
+                "DiscountPrice": "Rs.130",
+                "ProductImg": "/assets/img/pampers.jpg"
+                }
+              ]
+              
+            },
+            "healthcare":{
+              "offerProd" : [
+                  {
+                "productid": "105",
+                "productname": "Horlicks",
+                "price": "Rs.250",
+                "DiscountPrice": "Rs.150",
+                "ProductImg": "/assets/img/horlicks.jpg"
+            },
+             {
+                "productid": "106",
+                "productname": "Boost",
+                "price": "Rs.200",
+                "DiscountPrice": "Rs.100",
+                "ProductImg": "/assets/img/Boost.jpg"
+            }
+                ],
+              "product" : [
+           {
+                "productid": "105",
+                "productname": "Horlicks",
+                "price": "Rs.250",
+                "DiscountPrice": "Rs.150",
+                "ProductImg": "/assets/img/horlicks.jpg"
+            },
+             {
+                "productid": "106",
+                "productname": "Boost",
+                "price": "Rs.200",
+                "DiscountPrice": "Rs.100",
+                "ProductImg": "/assets/img/Boost.jpg"
+            },
+             {
+                "productid": "107",
+                "productname": "Lion Dates",
+                "price": "Rs.200",
+                "DiscountPrice": "Rs.100",
+                "ProductImg": "/assets/img/lion_dates.jpg"
+            },
+            {
+                "productid": "108",
+                "productname": "Amrutajan",
+                "price": "Rs.50",
+                "DiscountPrice": "Rs.40",
+                "ProductImg": "/assets/img/amrutanjan.jpg"
+            },
+            {
+                "productid": "109",
+                "productname": "Moov",
+                "price": "Rs.85",
+                "DiscountPrice": "Rs.80",
+                "ProductImg": "/assets/img/moov.jpg"
+            }
+            ]
+            },
+            "others":{
+              "offerProd" : [
+                  {
+                "productid": "002",
+                "productname": "Close up",
+                "price": "Rs.18",
+                "DiscountPrice": "Rs.15",
+                "ProductImg": "/assets/img/closeup.jpg"
+            },
+            {
+                "productid": "003",
+                "productname": "Cinthol",
+                "price": "Rs.32",
+                "DiscountPrice": "Rs.25",
+                "ProductImg": "/assets/img/cinthol.jpg"
+            }
+                ],
+              "product" :[
+           
+            {
+                "productid": "002",
+                "productname": "Close up",
+                "price": "Rs.18",
+                "DiscountPrice": "Rs.15",
+                "ProductImg": "/assets/img/closeup.jpg"
+            },
+            {
+                "productid": "003",
+                "productname": "Cinthol",
+                "price": "Rs.32",
+                "DiscountPrice": "Rs.25",
+                "ProductImg": "/assets/img/cinthol.jpg"
+            },
+            {
+                "productid": "004",
+                "productname": "Ponds",
+                "price": "Rs.150",
+                "DiscountPrice": "Rs.100",
+                "ProductImg": "/assets/img/Ponds.jpg"
+            },
+            {
+                "productid": "005",
+                "productname": "Pond's Men",
+                "price": "Rs.150",
+                "DiscountPrice": "Rs.100",
+                "ProductImg": "/assets/img/pond'smen.jpg"
+            }
+        ]
+            }
+        },
+        "total_records": 14
+    },
+    "status code": 200
+}
