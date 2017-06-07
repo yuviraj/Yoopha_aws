@@ -1,3 +1,0 @@
-Options +FollowSymLinks
-RewriteEngine On
-RewriteRule ^.*$ /Pharmacy/ [R=301,L]
