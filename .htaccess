@@ -4,11 +4,4 @@ RewriteCond %{REQUEST_FILENAME} -l [OR]
 RewriteCond %{REQUEST_FILENAME} -d
 RewriteRule ^.*$ - [NC,L]
 
-#RewriteCond %{REQUEST_URI} pharmacy [OR]
-#RewriteCond %{REQUEST_URI} Pharmacy
-#RewriteRule .* /pharmacy/index.html
-
-RewriteCond %{REQUEST_URI} [A-Z]
-RewriteRule ^pharmacy(/.*)?$ /pharmacy$1 [R=302,L,NC]
-
 RewriteRule ^(.*) /index.html [NC,L]
