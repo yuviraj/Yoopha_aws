@@ -1,0 +1,27 @@
+{
+  "name": "YOOPHA WEB APP",
+  "short_name": "YOOPHA",
+  "icons": [{
+        "src": "assets/icons/IP-Icon_64x64.png",
+        "sizes": "64x64"
+      }, {
+        "src": "assets/icons/IP-Icon_128x128.png",
+        "sizes": "128x128"
+      }, {
+        "src": "assets/icons/apple-touch-icon-144x144.png",
+        "sizes": "144x144"
+      }, {
+        "src": "assets/icons/IP-Icon_256x256.png",
+        "sizes": "256x256"
+      }],
+  "splash_screens": [{
+        "src": "assets/images/splash_hd_hi.jpg",
+        "sizes": "1920x1080"
+      }],
+  "scope": "",
+  "start_url": "index.html",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "background_color": "#2196F3",
+  "gcm_sender_id": "458785645568",
+}
