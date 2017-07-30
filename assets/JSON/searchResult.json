@@ -1,158 +1,96 @@
 {
-  "results": {
-    "docs": [
-      {
-        "shopid": "M0shop1",
-        "shopname": "XYZ",
-        "addressline1": "No.23, addressline1",
-        "addressline2": "location name, addressline2",
-        "addressline3": "area name, addressline3",
-        "city": "Chennai",
-        "pincode": 600028,
-        "lat": 13.0166828,
-        "long": 80.26000279999994,
-        "recommandations":"52",
-        "workinghour":"09:00 - 22:00",
-        "offerAvilable": true,
-        "offer": 10
-      },
-      {
-        "shopid": "M0shop2",
-        "shopname": "ABC",
-        "addressline1": "No.23, addressline1",
-        "addressline2": "location name, addressline2",
-        "addressline3": "area name, addressline3",
-        "city": "Chennai",
-        "pincode": 600028,
-        "lat": 14.0166828,
-        "long": 90.26000279999994,
-        "recommandations":"10",
-        "workinghour":"09:00 - 22:00",
-        "offerAvilable": false,
-        "offer": 0
-      },
-      {
-        "shopid": "M0shop3",
-        "shopname": "DEF",
-        "addressline1": "No.23, addressline1",
-        "addressline2": "location name, addressline2",
-        "addressline3": "area name, addressline3",
-        "city": "Chennai",
-        "pincode": 600028,
-        "lat": 12.0166828,
-        "long": 82.26000279999994,
-        "recommandations":"50",
-        "workinghour":"24Hrs",
-        "offerAvilable": true,
-        "offer": 50
-      },
-      {
-        "shopid": "M0shop4",
-        "shopname": "GHI",
-        "addressline1": "No.23, addressline1",
-        "addressline2": "location name, addressline2",
-        "addressline3": "Potheri, addressline3",
-        "city": "Chennai",
-        "pincode": 600028,
-        "lat": 13.1166828,
-        "long": 80.38000279999994,
-        "recommandations":"89",
-        "workinghour":"09:00 - 22:00",
-        "offerAvilable": false,
-        "offer": 0
-      },
-      {
-        "shopid": "M0shop5",
-        "shopname": "JKL",
-        "addressline1": "No.23, addressline1",
-        "addressline2": "location name, addressline2",
-        "addressline3": "Potheri, addressline3",
-        "city": "Chennai",
-        "pincode": 600028,
-        "lat": 13.0966828,
-        "long": 80.28000899999994,
-        "recommandations":"52k",
-        "workinghour":"09:00 - 22:00",
-        "offerAvilable": false,
-        "offer": 0
-      },
-      {
-        "shopid": "M0shop6",
-        "shopname": "MNO",
-        "addressline1": "No.23, addressline1",
-        "addressline2": "location name, addressline2",
-        "addressline3": "Potheri, addressline3",
-        "city": "Chennai",
-        "pincode": 600028,
-        "lat": 14.266828,
-        "long": 79.26000279999994,
-        "recommandations":"10k",
-        "workinghour":"24Hrs",
-        "offerAvilable": false,
-        "offer": 0
-      },
-      {
-        "shopid": "M0shop7",
-        "shopname": "PQR",
-        "addressline1": "No.23, addressline1",
-        "addressline2": "location name, addressline2",
-        "addressline3": "Potheri, addressline3",
-        "city": "Chennai",
-        "pincode": 600028,
-        "lat": 12.01366828,
-        "long": 81.26000279999994,
-        "recommandations":"72",
-        "workinghour":"24Hrs",
-        "offerAvilable": false,
-        "offer": 0
-      },
-      {
-        "shopid": "M0shop8",
-        "shopname": "STU",
-        "addressline1": "No.23, addressline1",
-        "addressline2": "location name, addressline2",
-        "addressline3": "Pallavarm, addressline3",
-        "city": "Chennai",
-        "pincode": 600028,
-        "lat": 11.266828,
-        "long": 79.26000279999994,
-        "recommandations":"1k",
-        "workinghour":"24Hrs",
-        "offerAvilable": false,
-        "offer": 0
-      },
-      {
-        "shopid": "M0shop9",
-        "shopname": "VWX",
-        "addressline1": "No.23, addressline1",
-        "addressline2": "location name, addressline2",
-        "addressline3": "Pallavarm pakkathula, addressline3",
-        "city": "Chennai",
-        "pincode": 600028,
-        "lat": 14.266828,
-        "long": 79.26000279999994,
-        "recommandations":"100",
-        "workinghour":"24Hrs",
-        "offerAvilable": false,
-        "offer": 0
-      },
-      {
-        "shopid": "M0shop10",
-        "shopname": "YZA",
-        "addressline1": "No.23, addressline1",
-        "addressline2": "location name, addressline2",
-        "addressline3": "Pallavarm, addressline3",
-        "city": "Chennai",
-        "pincode": 600028,
-        "lat": 13.266828,
-        "long": 80.79999994,
-        "recommandations":"999",
-        "workinghour":"24Hrs",
-        "offerAvilable": true,
-        "offer": 15
-      }
-    ],
-    "total_records": 14
-  },
-  "status_code": 200
+	"results": [
+		{
+			"title": "Buy Medicine Online",
+			"author": "Madhu",
+			"date": "July-2017",
+			"shortImg": "/assets/images/online_med-small.jpg",
+			"img": "/assets/images/online_med.jpg",
+			"category":"1",
+			"shortDesc" : "<p>In today’s we do almost everything online from buying a cell phone to choosing a furniture almost everything we do is online in today’s world. We even choose the house that we are going to live online and everything that we experience is virtual but when it comes to medicine we do hesitate a bit and mostly it is because of the stigma that we have about medicine that we mostly think that it would be a bad option because of some easily solvable problems and this article will solve all those problems that you have in mind. So let me clear some of your doubts.</p>",
+			"longDesc":[
+				{
+					"desc": "<p class='lead'>In today’s we do almost everything online from buying a cell phone to choosing a furniture almost everything we do is online in today’s world. We even choose the house that we are going to live online and everything that we experience is virtual but when it comes to medicine we do hesitate a bit and mostly it is because of the stigma that we have about medicine that we mostly think that it would be a bad option because of some easily solvable problems and this article will solve all those problems that you have in mind. So let me clear some of your doubts.</p>"
+				},
+				{
+					"desc": "<h3>Registered Pharmaceutical Company:</h3><p>The companies that sell medicine online are registered Pharmaceutical companies and the medicine sold are licensed and checked properly the rumor has that the companies are not registered and do not match the quality or the standard this is not true because only the registered companies will be able to sell medicine online non registered companies without thee medicine will not be able to sell as the government  has a very strict policy regarding this and only the best qualified companies with high safety and production standards are allowed to sell medicine online and there are a few bogus sites but all the major sites will not have a problem regarding this issue as they allow only qualified and registered companies to sell on their sites so you can buy medicine online without any hesitation for the company and also the doctor only prescribes you the medicine that only high standard companies sell and so it is impossible for others to sell it. While buying medicine online make sure that you go only for the premium sites rather than any small sites.</p>"
+				},
+				{
+					"desc":"<h3>Delivery Time of Medicine:</h3><p>One of the biggest concern about buying medicine online is that weather that the medicine will be delivered on time so that you can have it on time as prescribed by the doctor, well all the major sites will assure you on time delivery at your door step and the people working to deliver this will surely help you and maker you believe that this is just a stupid thought that medicine won’t be delivered on time. The chances of not receiving your medicine on time is almost none and very rarely do we have a case that the medicine have not been received on time and this is one of the worst cases but mostly it could be on time and on your door step so here is another green light for you when you want to buy medicine online and make sure that you choose the best suitable delivery time as it requires you to be at home at  that time or else make sure that there is someone to collect it on behest of you.</p>"
+				},
+				{
+					"desc": "<h3>Adjustable Payment:</h3><p>Online payment is available for buying medicine online and this is just the beginning and the cash on delivery is also available with more additional features like mobile wallets and using debit and credit cards and also a lot of coupons and discounts are also available that will surely help you a lot while buying medicine online and this is just the beginning you can also have an account and make sure you save a lot by just buying medicine online. You save time and money.The most beneficial thing about buying medicine online is that you never have to worry about the unavailability of the medicine, all the medicine that you want will  be available with the same manufacturer as prescribed by the doctor so please do not hesitate to buy medicine online.</p>"
+				}
+			]
+		},
+		{
+			"title": "Health Tips",
+			"author": "Madhu",
+			"date": "July-2017",
+			"img": "/assets/images/health_tips.jpg",
+			"shortImg": "/assets/images/health_tips-small.jpg",
+			"category":"2",
+			"shortDesc" : "<p>Hello Everyone!<br>This article will give a very good piece of information about the health, the manners and habits which we need to maintain in order to keep our health positive good and refreshing and also these are not the only norms and advice that you have to follow for good healthy lifestyle, there are many but this is of course is one of the easiest methods to maintain good and healthy lifestyle and also make sure that you follow these tips for a healthy lifestyle.</p>",
+			"longDesc":[
+				{
+					"desc": "<p class='lead'>Hello Everyone!<br>This article will give a very good piece of information about the health, the manners and habits which we need to maintain in order to keep our health positive good and refreshing and also these are not the only norms and advice that you have to follow for good healthy lifestyle, there are many but this is of course is one of the easiest methods to maintain good and healthy lifestyle and also make sure that you follow these tips for a healthy lifestyle.</p>"
+				},
+				{
+					"desc": "<h3>Sleep:</h3><p>In order to maintain a healthy lifestyle sleep is one of the very important things that you should look into and you should make sure that you sleep peacefully and a healthy sleep at night is a very good beginning for a healthy day at work or a healthy morning in general in order to fell active you should sleep well and also working people should generally sleep 7-8 hours a day and the sleep should be very peaceful and sound choose a good dark place to sleep with utmost peacefulness and very dark, switch off all the lights for a good sleep. Avoid caffeine, nicotine and alcohol for a good sleep for improved sleep choose a comfortable pillow and mattress and choose a quiet and dark place to sleep.</p>"
+				},
+				{
+					"desc" : "<h3>Healthy Food:</h3><p>One of the best way to improve and maintain your health is to have healthy food diet, best to avoid fat, cholesterol intake should be reduced to the minimum levels while high intake of sugar should also not be entertained and the best food to take are the proteins and the vegetables with really good amount of vitamins and there are plenty of vegetarian and non-vegetarian food which are a good source of proteins. Obesity and Hyperglycemia is mostly due to the high intake of sugar and we fail notice that most of the food that we take have very high amount of sugar in them and so we should be very careful while we choose the food and most importantly the food we take should be in appropriate amounts we should avoid over eating in other words we should only eat till our stomach is full and our hunger is finished.</p>"
+				},
+				{
+					"desc": "<h3>Positive Thinking:</h3><p>One of the greatest mantras for a very good healthy lifestyle is positive thinking we sometimes forget how healthy we are and how good the things and environment is instead we ponder over some of the negatives and become stressed and this leads to a very Bad health condition as stress is not very good for the body and health as well, being stressful is one of the worst conditions of maintain a healthy lifestyle. Some people do it all the time they are very stressful for no good reason and then it effects their overall performance both physically and mentally, so always make sure that you maintain your health by keeping positive and maintain calm over the unlikely situation and thereby living a healthy lifestyle.<br>You know all three things are interlinked with each other if you don’t have enough sleep then you are sure to be stress full and if you are stressful then you are not going to maintain a healthy food diet and also if you don’t maintain a good healthy diet then you are not going to sleep properly, so please eat well, sleep well be positive maintain your health optimism and also after doing all of these do always smile and have a healthy attitude it reduces your stress level and keeps you fit in maintain a good healthy lifestyle.</p>"
+				},
+				{
+					"desc": "<h3>Exercise:</h3><p>Exercise does not only mean that you go to gym and work out for an hour a day bit also walking daily for about 10 kilometers will do as you would have burnt enough calories for you to maintain a good health but if you are out of shape and need to get into one they you should really try and get to shape as quickly as possible and exercise will help you do it and you can bring a great amount of change while doing exercise and it will also relieve your stress for a bit for example running and swimming are best stress relievers in terms of exercise and also these exercise will also bring a great amount of positive change in you and keeps your mind free and active to maintain a healthy lifestyle one should do exercise daily for about 30 minutes.</p>"
+				},
+				{
+					"desc": "<h3>Reduce Stress:</h3><p>If we count the amount of diseases and problems that stress brings to our body then it is definitely not possible to do it quickly as there are a lot of diseases that are disease oriented and so once must understand that being stressful does not help and is waste in terms of health and healthy mind this must be given serious importance and must be taken care of at the highest levels and we should try not to complicate ourselves by being stressful all the time healthy mind and sound body are the best habits to maintain a healthy lifestyle and this is not possible with more stress.</p>"
+				},
+				{
+					"desc":"<h3>Meditation:</h3><p>One of the best forms of exercise and stress relief is meditation and it also helps in reducing stress and lowering your blood pressure this is one of the best and prime exercise to relieve stress and maintain a healthy life style, Yoga is a combination of both meditation and exercise and so one should perform yoga as a stress reliever and as a exercise this will help you in bringing your health back on track and also to maintain your health this is one of the most helpful exercises and meditations of all. </p><h3>Healthy Habits:</h3><p>Marinating healthy habits is one of the most important tasks in order to maintain a healthy lifestyle this is foremost important as maintaining healthy habits will always keep you in check for a healthy lifestyle as all the areas of the health are covered and most of them are also important for us and by this we are just one step ahead and the health habits include maintain our health and hygiene, visiting a doctor on a regular basis i.e, for regular checkups or whenever we feel uneasiness in our body or feel something disturbing in particular this are some of the reasons that we visit a doctor and improving our sleep so our body gets rest completely and we are fully charged are some of the healthy habits that we should maintain and should continue and in order to maintain a good healthy lifestyle maintain healthy habits is a must.These four habits should be followed to the fullest in order to maintain a healthy lifestyle and we should make sure that we follow these habits constantly to improve our health and these tips are one of many things that we have to follow to improve our health and maintain a healthy lifestyle.</p>"
+				}
+			]
+		},
+		{
+			"title": "Diet Plan",
+			"author": "Madhu",
+			"img": "/assets/images/diet.jpg",
+			"shortImg": "/assets/images/diet-small.jpg",
+			"date": "July-2017",
+			"category":"2",
+			"shortDesc" : "We have all come across the saying  “ You are what you eat” and this is indubitable even today. In other words, if u follow a healthy diet, you will plausibly be safe and sound. In nutrition, diet is the kinds of food that a person , animal or community habitually eats. Diet and nutrition is pivotal to good health .Healthy eating is not about tough dietary obstructions, or ousting the food you  relish. Rather, it is about promoting your health and boosting your stamina and vigour. It is about the choices one has to make with the intention of uplifting one’s health. Eating well means having healthy foods that are fresh and green.",
+			"longDesc":[
+				{
+					"desc": "<h3>“ JUNK” THE JUNK FOODS</h3><p>We have all come across the saying  “ You are what you eat” and this is indubitable even today. In other words, if u follow a healthy diet, you will plausibly be safe and sound. In nutrition, diet is the kinds of food that a person , animal or community habitually eats. Diet and nutrition is pivotal to good health .Healthy eating is not about tough dietary obstructions, or ousting the food you  relish. Rather, it is about promoting your health and boosting your stamina and vigour. It is about the choices one has to make with the intention of uplifting one’s health. Eating well means having healthy foods that are fresh and green.  Human genetics is immensely composite and a healthy diet may vary according to the genetic constitution of each individual. The environmental factor also play a vital lead in an individual’s health. Understanding the relation between your health and your diet can trigger you to make valuable selection on diet .When we are young, we have the faith and mind is set to the belief that we are  perpetual. Later on, age and paring health have a way of showing that we are nothing but what our body reflects to our diet. <br> <br>The approach of healthy consumption of food is the foremost problem nowadays where the sedentary life style includes only a speck of outdoor physical activities, high quality food intake and an inclination towards industrially produced foods and regalement from local sources. Besides, many opt for fast foods, junk food, snacks ,pizza, soft drinks and get obese. The result is fatigue and poor health over time. They sow the seeds for their own health ruination in the future. Diet filled with processed foods and snacks increase the rate of depression, anxiety and stress. Eating foods below par even play an important role in the development of chronic mental illness like Alzhimer’s disease. It also increases the risk of suicide in youngsters.Food gives  energy to muscles and fuel to visualize, think and understand .The carbohydrates, proteins, vitamins and minerals  obtained through diet helps in the proper functioning and metabolism of the body. The macro and micro nutrients helps to sustain your health. If you stick to a healthy diet in the rich in these nutrients, you will feel energized and healthy. <br> <br>"
+				},
+				{
+					"desc": "Carbohydrates are one of the major sources of energy. They are found in a wide variety of food. The important sources are cereals, potatoes, sugarcanes, fruits, table sugar, bread, milk, etc.  These provide energy for the body cells , tissues and organs. Carbohydrates are also good sources of fiber. Proteins are the building  blocks of our body. It is found throughout our body muscles, skin, bones and hair. They play critical roles in the body like maintaining the structure, functions and regulation of the body tissues and cells. Fats are prerequisite in our diet and is important part of sound health. There are different types of fats and in order to be physically fit, a low quantity of unsaturated fat should be consumed. Fats provide energy and helps our body absorb vitamins. Dietary fats such as Omega -3 -fatty acids( found in some type of fatty fish) are known to reduce the risks of cardiovascular disease. Fishes such as Salmon, Tuna, Trout, Mackerel, Sardines and Herring have a large amount of omega-3-fatty acids. Plant sources rich in Omega-3 include walnuts. Butternuts and sunflower. Vitamins and  minerals are the essential compounds that support the normal physiological functions of the body. These cannot be synthesised quickly in our body and is essential to include them in our diets to prevent deficiencies. Some of the foods rich in vitamins are whole grain breads and cereals, vegetables , fruits , fish and diary products such as milk. <br> <br>Turning about a healthy diet as challenging as it seems. A complete elimination of foods you are fond of is not required. Mere changes in your diet can help do the work. Addition of salad to diet once in day along with your  routine diet can be the first step towards a healthy eating plan. Home-made foods can help take charge of your diet and supervise what goes into the food. Eat fewer calories , avoid packaged and canned foods, and supplements with added sugar, chemical additives and preservatives. This can help you come over anxiety, stress and depression. Switch over from trans fats which are unhealthy to healthy fats will make a positive impact on your health. Have plenty of fresh and green foods for breakfast. Drink plenty of water to help purify our blood from toxins  and waste products. This will boost your energy and make you more enthusiastic. Having fruits and vegetables will naturally steer you up as these are low in calories and are rich in nutrients, i.e., they are trussed with vitamins , minerals, antioxidants and fibre.  <br> <br>Iron and Calcium are essential nutrients for infants, children,  growing teens and adults. The only possible way by which these nutrients can enter our body is through healthy diet. While Iron is a part of haemoglobin ehich is involved in the transportation of blood, calcium is required for keeping our bones strong and healthy. Remember that even a small deficiency in any of the nutrients can have an enormous negative impact on our health. Eating healthy food makes sure that your body is supplemented with all the nutrients needed. It is important to strike a note that our body is a reflection of what we take in- for the better, or for the worse. Eating right adds years to your life.</p>"
+				}
+			]
+		},
+		{
+			"title": "Home Remedies",
+			"author": "Madhu",
+			"img": "/assets/images/home_rem.jpg",
+			"shortImg": "/assets/images/home_rem-small.jpg",
+			"date": "July-2017",
+			"category":"4",
+			"shortDesc" : "Here are some of the home remedies to help you get with the uneasiness that we possess due to some of the most silliest problems that are easily avoidable and curable by some of these home remedies and these home remedies are very effective and 100 percent safe for you to use, they are being practiced by a wide number of people across the country and are very effective.",
+			"longDesc":[
+				{
+					"desc": "<p class='lead'>Here are some of the home remedies to help you get with the uneasiness that we possess due to some of the most silliest problems that are easily avoidable and curable by some of these home remedies and these home remedies are very effective and 100 percent safe for you to use, they are being practiced by a wide number of people across the country and are very effective.</p><h3>Sore Throat:</h3><p>Having problems with your sore throat, don’t worry there is a easy home remedy for this disturbing problem, take six garlic cloves press it well and mix it with a glass of warm water and gargle twice daily. The fresh garlic has anti microbial property that will help you in overcoming this problem.</p>"
+				},
+				{
+					"desc": "<h3>Fever:</h3><p>Suffering from fever every now and then here is another great remedy to help you overcome the temperature, in a cup of hot water add 1 table spoon of dried herbs and drink three to four cups a day if the temperature doesn’t fall down seek medical attention, for high fever take a bath with water matching your body temperature and then drink linden flower tea for lowering the temperature.</p><h3>Burn:</h3><p>If you have mistakenly burnt yourself with some hot water or oil then apply aloe vera gel to the burnt part as needed, this gel is anti-inflammatory and protects the second skin from air exposure which will stop the exposed nerve endings.</p>"
+				},
+				{
+					"desc": "<h3>Flatulence:</h3><p>Deeply disturbed about your flatulence well everyone is and so here is a perfect remedy for that take two enteric coated pepper mint capsules three times daily each capsule of 500 mg, these capsules kill the bacteria and relaxes the gastrointestinal tract for smoother digestion, the enteric coating will prevent capsule from opening and increasing discomfort by causing heart burn and indigestion. The peppermint works in the lower gastrointestinal tract, where it is needed the most.</p><h3>Cold:</h3><p>Here is one of the most common disease among the human being in average a human being is affected 150 times by cold in a life time this is very huge in order to combat that here is a very powerful home remedy, take a lemon and cut it into two halves, squeeze the juice of one half into a cup and take the other half put it into a cup, add boiling water and a teaspoon of organic honey it will booster your immune response breathe in heavily it will also open the sinuses, the honey will also take care of the throat issues. Sip a cup or two daily.</p><h3>Snoring:</h3><p>Snoring is a surely a problem it effects your health if not for you then surely for your partner it affects their sleep and here is a best way to treat your snoring, mostly people snore while sleeping on their back for this you just have to take a tennis ball and sew it to your mid back of your pajama using an old T-Shirt this will definitely make you turn while sleeping without disturbing your sleep.</p><h3>Bad Breadth:</h3><p>Bad Breadth is a very humiliating especially in public places or when you are communicating with someone this make us really feel bad about ourselves and lowers our confidence here is a perfect way to sweeten it, just gargle with a small cup of lemon, the acidic lemon will kill the odor and have a sweet yoghurt which will help in maintain good breadth as it is enriched with good lactobacillus bacteria.<br>These remedies are very effective please try them and share with your friends and familiars to pass on the perks and also they are very safe as well.</p>"
+				}
+			]
+		}
+	]
 }
